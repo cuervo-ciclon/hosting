@@ -3999,7 +3999,7 @@ p {
 @media (max-width: 768px) {
   .carousel-inner {
     width: 100%; /* Ajustar el ancho al 100% del contenedor */
-    height: 700px; /* Mantener la proporción de la imagen */
+    height: 720px; /* Mantener la proporción de la imagen */
   }
 }
 
